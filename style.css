@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: linear-gradient(to top, #706CC0, #2489B3) fixed;
+  text-align: center;
+
+}
+
+.main-head {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.sub-head {
+	font-size: 20px;
+    width: 60%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.sub-head2{
+
+	font-size: 20px;
+    letter-spacing: none;
+    color: white;
+    text-align: center;
+}
+.header {
+}
+
+.main-div {
+
+	margin: 0 auto;
+	width: 1000px;
+	height: 100%;
+	display: block;
+	padding-top: 50px
+	
+	
+}
+
+.div1 {
+	margin: 0 auto;
+    float: left;
+    overflow: hidden;
+    width: 50%;
+}
+.div2{
+	margin: 0 auto;
+    float: left;
+    overflow: hidden;
+    width: 50%;
+}
+
+
+.social-login > img {
+	width: 153px;
+	cursor:pointer;
+}
+
+
+
+    h2, p {
+     	color: white;
+     	text-align: center;}
+   
+ input{
+	width: 80%;
+    display: block;
+    margin: -5px auto;
+    padding: 15px;
+    border-radius: 5px;
+cursor:pointer}
+
+  .loginbutton{
+  	background-color: blue;
+  	margin: 3px;
+  	font-size: 21px;
+  	font-weight: bolder;
+  }
+  .main-div > h2, p {
+  	padding-bottom: 50px;
+  }
